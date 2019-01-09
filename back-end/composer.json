@@ -1,0 +1,17 @@
+{
+    "name": "gaspardfremy/recipe-api",
+    "authors": [
+        {
+            "name": "GaspardFremy",
+            "email": "gaspardfremy123@gmail.com"
+        }
+    ],
+    "require": {
+        "klein/klein": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
